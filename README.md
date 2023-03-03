@@ -12,6 +12,7 @@ python main.py
 ```
 
 ## How to use
+* 首先在添加环境变量OPENAI_API_KEY，填写你的openai api key
 * 运行后，控制台会出现二维码。
 * 用微信扫码登录后，只要有消息含小G小G，就会触发chatGPT自动回复
 
